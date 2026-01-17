@@ -1,4 +1,4 @@
-# Academic Projects Portfolio
+# Main projects made throughout my Computer Sciences Engineering degree
 
 This repository contains links to my main academic projects developed during my Computer Science Engineering degree.
 
