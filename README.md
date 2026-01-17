@@ -4,7 +4,7 @@ This repository contains links to my main academic projects developed during my 
 
 ## Projects
 
-- [WebApp + Java Server](https://github.com/andrefsg05/app-web-server-java)
+- [RoomRent - WebApp + Java Server](https://github.com/andrefsg05/app-web-server-java)
 - [OCaml Battleship AI](https://github.com/andrefsg05/battleship-ai-ocaml) 
 - [Java Library Manager](https://github.com/andrefsg05/library-manager-java)
 
