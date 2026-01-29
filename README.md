@@ -8,6 +8,7 @@ This repository contains links to my main academic projects developed during my 
 - [OCaml Battleship AI](https://github.com/andrefsg05/battleship-ai-ocaml) 
 - [Java Library Manager](https://github.com/andrefsg05/library-manager-java)
 - [Java Environmental Monitoring System](https://github.com/andrefsg05/environmental-monitoring-system-java)
+- [Eventastic - Java Event Management System](https://github.com/andrefsg05/event-management-java)
 
 ## Notes
 
