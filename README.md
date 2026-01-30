@@ -11,6 +11,7 @@ This repository contains links to my main academic projects developed during my 
 - [Eventastic - Java Event Management System](https://github.com/andrefsg05/event-management-java)
 - [C Live Chat System](https://github.com/andrefsg05/live-chat-system-c)
 - [Salvar Comida - WebApp](https://github.com/andrefsg05/salvar-comida-webapp)
+- [Palavra GURU - Java Game](https://github.com/andrefsg05/palavra-guru-game-java)
 
 ## Notes
 
