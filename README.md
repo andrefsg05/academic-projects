@@ -12,6 +12,7 @@ This repository contains links to my main academic projects developed during my 
 - [C Live Chat System](https://github.com/andrefsg05/live-chat-system-c)
 - [Salvar Comida - WebApp](https://github.com/andrefsg05/salvar-comida-webapp)
 - [Palavra GURU - Java Game](https://github.com/andrefsg05/palavra-guru-game-java)
+- [C Process Simulator with Memory](https://github.com/andrefsg05/process-simulator-w-memory-c)
 
 ## Notes
 
