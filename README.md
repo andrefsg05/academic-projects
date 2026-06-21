@@ -1,4 +1,4 @@
-# Computer Sciences Engineering Degree
+# Bachelor's Degree in Computer Sciences Engineering
 
 This repository contains links to my main academic projects developed during my Computer Science Engineering degree at the [Universidade de Évora](https://www.uevora.pt/) (2023/2024 - 2026/2027).
 
