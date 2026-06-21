@@ -13,6 +13,7 @@ This repository contains links to my main academic projects developed during my 
 - [Salvar Comida - WebApp](https://github.com/andrefsg05/salvar-comida-webapp)
 - [Palavra GURU - Java Game](https://github.com/andrefsg05/palavra-guru-game-java)
 - [C Process Simulator with Memory](https://github.com/andrefsg05/process-simulator-w-memory-c)
+- [CineLog - Android Native App with Kotlin](https://github.com/andrefsg05/cinelog-android-app-kotlin)
 
 ## Notes
 
